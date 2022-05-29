@@ -47,16 +47,27 @@ The github link is given below. To experience the webapp just clone the github r
 
 * The "contact" button will take to the contact section of the home page which have contact information.
 
+![Screenshot (1733)](https://user-images.githubusercontent.com/95647027/170853458-cdb52421-ea7a-434f-acaa-dd8546659281.png)
+
 
 * The navbar also have other options like "suggestions", this will navigate us to the section on home page itself where the viewers can drop suggestion messages.
 
 
 
 
+![Screenshot (1732)](https://user-images.githubusercontent.com/95647027/170853424-072763d0-90fa-4ff2-b677-35e529d0e939.png)
+
+
 
 ### Advertisement Page
 * User can watch and advertisement and while watching click on the "take my reaction" button, this will record viewers expressions, age, gender.
+
+![Screenshot (1713)](https://user-images.githubusercontent.com/95647027/170853473-5ea5827e-6952-4869-b47a-161e680a3cf5.png)
+
 * After viewing the advertisement, user can go back to home page.
+
+![Screenshot (1717)](https://user-images.githubusercontent.com/95647027/170853484-c5a3ebc6-b4bc-4d50-b4b5-654060a8a79f.png)
+
 
 ### Login Page
 * Admin can view the data records while logging in.
@@ -65,12 +76,19 @@ The github link is given below. To experience the webapp just clone the github r
 > Password: Dhairya
 * Only 3 attempts are available.
 
+
+![Screenshot (1719)](https://user-images.githubusercontent.com/95647027/170853501-dbab1590-07d0-463c-954c-69b1eee48192.png)
+
 ### Admin Page
 This page contains the record of reactions in tabular form and also chart form. Admin can see the records.
 
 
 
+![Screenshot (1723)](https://user-images.githubusercontent.com/95647027/170853510-4a1974ad-6d66-4828-b99a-ae77847e031c.png)
 
+
+
+![Screenshot (1724)](https://user-images.githubusercontent.com/95647027/170853514-0c616680-5d95-4954-b25e-8a8a52784ad3.png)
 
 
 
