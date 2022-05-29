@@ -1,15 +1,15 @@
 # Face-Recognition-WebApplication
 
-Table of Content
-1. About The Project
-* Use Case
-* Compatible Platforms
-2. Getting Started
-3. Navigating Through The WebApp
-* Home Page
-* Advertisement Page
-* Login Page
-* Admin Page
+##### Table of Contents  
+1. [About the prject](#about-the-project)  
+   - [Use Case](#use-case) 
+   - [Compatible Platforms](#compatible-platforms)
+2. [Getting Started](#getting-started)
+3. [Navigating Through The WebApp](#navigating-through-the-webapp)
+   - [Home Page](#home-page)
+   - [Advertisement Page](#advertisement-page)
+   - [Login Page](#login-page)
+   - [Admin Page](#admin-page)
 
 ## About The Project
 * Face recognition to capture reactions while viewing advertisements is the project built during Microsoft Engage 2022 program.
