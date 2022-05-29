@@ -12,10 +12,9 @@ Table of Content
 * Admin Page
 
 ## About The Project
-* Expression reading with face recognition is project built during Microsoft Engage 2022 program.
-* This project records people's expressions, gender and age and store that data.
-* This helps to record people's reactions while they are seeing the Advertisement.
-* The reactions can be used for improvements in advertisements.
+* Face recognition to capture reactions while viewing advertisements is the project built during Microsoft Engage 2022 program.
+* This project records people's expressions, gender and age and store that data while they are seeing the Advertisement.
+* The reactions can be used for improvements in advertisements as it gives customized reviews.
 
 ### Use Case
 * The idea of recording facial expressions is used in this project to record reviews of the advertisement.
