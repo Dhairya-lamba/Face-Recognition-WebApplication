@@ -4,6 +4,7 @@
 1. [About the project](#about-the-project)  
    - [Use Case](#use-case) 
    - [Compatible Platforms](#compatible-platforms)
+   - [Build With](#build-with)
 2. [Getting Started](#getting-started)
 3. [Navigating Through The WebApp](#navigating-through-the-webapp)
    - [Home Page](#home-page)
@@ -32,7 +33,8 @@ Laptops, Desktops and Tablet PCs
 * CSS
 * BOOTSTRAP
 * Google spreadsheet
-[The link of google spreadsheet in which data will get stored](https://docs.google.com/spreadsheets/d/19OUdeSHHwQ8Jdsi4vARgHBGn0JddxSnryZGd7XjQgvE/edit#gid=0)
+
+[Link to spreadsheet in which data will be uploaded](https://docs.google.com/spreadsheets/d/19OUdeSHHwQ8Jdsi4vARgHBGn0JddxSnryZGd7XjQgvE/edit#gid=0)
 
 
 ## Getting Started
@@ -41,6 +43,8 @@ The github link is given below. To experience the webapp just clone the github r
 [Link To Github Repository](https://github.com/Dhairya-lamba/Face-Recognition-WebApplication)
 
 The following git command can be run to clone repository.
+
+$ git clone https://github.com/Dhairya-lamba/Face-Recognition-WebApplication.git
 
 
 ## Navigating Through The Webapp
