@@ -47,6 +47,7 @@ The following git command can be run to clone repository.
 $ git clone https://github.com/Dhairya-lamba/Face-Recognition-WebApplication.git
 
 
+
 ## Navigating Through The Webapp
 ### Home Page
 * Home page have some informations, navigation buttons.
