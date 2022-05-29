@@ -2,7 +2,7 @@
 
 Table of Content
 1. About The Project
-* Salient Features
+* Use Case
 * Compatible Platforms
 2. Getting Started
 3. Navigating Through The WebApp
@@ -17,15 +17,17 @@ Table of Content
 * This helps to record people's reactions while they are seeing the Advertisement.
 * The reactions can be used for improvements in advertisements.
 
-###  Salient features
-* Stores the expressions of people.
-* The results are stored and shown in form of table and also in a chart.
+### Use Case
+* The idea of recording facial expressions is used in this project to record reviews of the advertisement.
+* This idea can be used to conduct surveys as it captures people's expressions and can benfit many companies, political parties to know the exact review of people which increases its use case a lot.
+* This survey results can futher help in enhancements and improvements.
 
 ### Compatible Platforms
 Laptops, Desktops and Tablet PCs
 
 ## Getting Started
 The github link is given below. To experience the webapp just clone the github repository and you will be ready to go.
+[Link To Github Repository](https://github.com/Dhairya-lamba/Face-Recognition-WebApplication)
 
 ## Navigating Through The Webapp
 ### Home Page
@@ -45,6 +47,12 @@ The github link is given below. To experience the webapp just clone the github r
 
 > Password: Dhairya
 * Only 3 attempts are available.
+
+### Admin Page
+This page contains the record of reactions in tabular form and also chart form. Admin can see the records.
+
+
+
 
 
 
