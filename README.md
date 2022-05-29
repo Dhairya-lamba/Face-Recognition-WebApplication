@@ -24,10 +24,24 @@
 ### Compatible Platforms
 Laptops, Desktops and Tablet PCs
 
+### Build With 
+* Face Recognition API
+* Face recognition models
+* JavaScript
+* HTML
+* CSS
+* BOOTSTRAP
+* Google spreadsheet
+[The link of google spreadsheet in which data will get stored](https://docs.google.com/spreadsheets/d/19OUdeSHHwQ8Jdsi4vARgHBGn0JddxSnryZGd7XjQgvE/edit#gid=0)
+
+
 ## Getting Started
 The github link is given below. To experience the webapp just clone the github repository and you will be ready to go.
 
 [Link To Github Repository](https://github.com/Dhairya-lamba/Face-Recognition-WebApplication)
+
+The following git command can be run to clone repository.
+
 
 ## Navigating Through The Webapp
 ### Home Page
