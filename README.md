@@ -1,6 +1,6 @@
 # Face-Recognition-WebApplication
 
-##### Table of Contents  
+### Table of Contents  
 1. [About the prject](#about-the-project)  
    - [Use Case](#use-case) 
    - [Compatible Platforms](#compatible-platforms)
