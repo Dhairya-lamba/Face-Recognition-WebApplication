@@ -38,7 +38,7 @@ Laptops, Desktops and Tablet PCs
 
 
 ## Getting Started
-The github link is given below. To experience the webapp just clone the github repository and you will be ready to go.
+To experience the webapp just clone the github repository and you will be ready to go.
 
 [Link To Github Repository](https://github.com/Dhairya-lamba/Face-Recognition-WebApplication)
 
