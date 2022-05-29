@@ -1,6 +1,5 @@
 # Face-Recognition-WebApplication
-# Face Recognition To Capture Reactions While Viewing Advertisements
-<br>
+
 ##Table of Content
 1. About The Project
 *Salient Features
